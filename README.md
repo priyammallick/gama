@@ -1,1 +1,1 @@
-# gama
+# using bootstrap components
